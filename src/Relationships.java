@@ -1,5 +1,4 @@
 public enum Relationships {
-
     PARENT("Родители"),
 
     CHILDREN("Дети"),

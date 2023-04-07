@@ -10,7 +10,6 @@ public class Person {
         this.age = age;
     }
 
-
     public String getName() {// правая кнопка мыши - генерэйт
         return name;
     }

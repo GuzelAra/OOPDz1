@@ -1,6 +1,7 @@
 import java.io.IOException;
 
 public class Program {
+
     public static void main(String[] args) throws IOException {
         var nata = new Person("Наталья", 63);
         var gleb = new Person("Глеб", 41);

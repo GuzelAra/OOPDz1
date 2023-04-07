@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class Research {
 
+
     ArrayList<Node> tree;
 
 

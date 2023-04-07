@@ -3,7 +3,7 @@ public class Node {
     Relationships re;
     Person p2;
 
-    public Node(Person p1, Relationships re, Person p2) {
+        public Node(Person p1, Relationships re, Person p2) {
         this.p1 = p1;
         this.re = re;
         this.p2= p2;
